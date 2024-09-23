@@ -53,6 +53,28 @@ hr {
     margin-left: 10%;
 }
 
+ul {
+    list-style-type: circle;
+}
+
+a:link {
+    color: #FF0000;
+}
+
+
+a:visited {
+    color: #61a9ec;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+
 #apresentacao {
     text-align: center;
 }
@@ -118,5 +140,14 @@ width: 45px;
 
 }
 
+#center {
+    text-align: center;
+    background-color: blueviolet;
+}
 
+#foto {
+    width: 20%;
+    height: 20%;
+    border-radius: 20%;
+}
 
